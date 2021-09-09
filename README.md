@@ -5,6 +5,9 @@
 I'm a computational plant biologist with a background in biochemistry, pursuing my PhD at Michigan State University (MSU) in the [Shiu Lab](https://shiulab.github.io/), where I apply machine learning and natural language processing techniques to answer biological questions. For more details on active projects, feel free to browse my repositories or view [my website](https://serenalotreck.github.io/projects/).
 <br>
 <br>
+I care about writing reproducible, well-documented code for biology, and am always looking for feedback on my code and documentation. If you're using code from one of my repositories and have any questions or feedback, please open an issue or email me at lotrecks@msu.edu!
+<br>
+<br>
 I love science communication, and have written a [guest blog](https://www.msuscicomm.org/post/knowledge-graphs) for MSU SciComm, as well as giving talks on [applications of machine learning in plant biology](https://mediaspace.msu.edu/media/Intro+to+ML+-+GLBRC+Annual+Science+Meeting/1_w6nw7tt8) and [my own research](https://www.youtube.com/watch?v=S0UHH462mvk&t=2985s). 
 <br>
 <br>
