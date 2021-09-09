@@ -1,7 +1,7 @@
 ### Hi there! I'm Serena.
 
 <img src=
-"serena-pictured-rocks.jpg" 
+"https://user-images.githubusercontent.com/41377532/132718603-57309568-57eb-483c-84ce-54df33439e51.jpg" 
          alt="Serena at Pictured Rocks in the Upper Peninsula of Michigan" 
          align="right">
 
