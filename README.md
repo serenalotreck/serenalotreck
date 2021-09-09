@@ -1,7 +1,6 @@
 ### Hi there! I'm Serena.
 
-<img align="right" src=
-"https://user-images.githubusercontent.com/41377532/132718603-57309568-57eb-483c-84ce-54df33439e51.jpg" alt="Serena at Pictured Rocks in the Upper Peninsula of Michigan" >
+<img align="right" width=200 height=300 src="https://user-images.githubusercontent.com/41377532/132718603-57309568-57eb-483c-84ce-54df33439e51.jpg" alt="Serena at Pictured Rocks in the Upper Peninsula of Michigan" >
 
 I'm a computational plant biologist with a background in biochemistry, pursuing my PhD at Michigan State University (MSU) in the [ShiuLab](https://shiulab.github.io/), where I apply machine learning and natural language processing techniques to answer biological questions. For more details on active projects, feel free to browse my repositories or view [my website](https://serenalotreck.github.io/projects/).
 <br>
