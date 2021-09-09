@@ -1,8 +1,8 @@
 ### Hi there! I'm Serena.
 
-<img align="right" width=225 height=300 src="https://user-images.githubusercontent.com/41377532/132718603-57309568-57eb-483c-84ce-54df33439e51.jpg" alt="Serena at Pictured Rocks in the Upper Peninsula of Michigan" >
+<img align="right" width=220 height=300 src="https://user-images.githubusercontent.com/41377532/132718603-57309568-57eb-483c-84ce-54df33439e51.jpg" alt="Serena at Pictured Rocks in the Upper Peninsula of Michigan" >
 
-I'm a computational plant biologist with a background in biochemistry, pursuing my PhD at Michigan State University (MSU) in the [ShiuLab](https://shiulab.github.io/), where I apply machine learning and natural language processing techniques to answer biological questions. For more details on active projects, feel free to browse my repositories or view [my website](https://serenalotreck.github.io/projects/).
+I'm a computational plant biologist with a background in biochemistry, pursuing my PhD at Michigan State University (MSU) in the [Shiu Lab](https://shiulab.github.io/), where I apply machine learning and natural language processing techniques to answer biological questions. For more details on active projects, feel free to browse my repositories or view [my website](https://serenalotreck.github.io/projects/).
 <br>
 <br>
 I love science communication, and have written a [guest blog](https://www.msuscicomm.org/post/knowledge-graphs) for MSU SciComm, as well as giving talks on [applications of machine learning in plant biology](https://mediaspace.msu.edu/media/Intro+to+ML+-+GLBRC+Annual+Science+Meeting/1_w6nw7tt8) and [my own research](https://www.youtube.com/watch?v=S0UHH462mvk&t=2985s). 
